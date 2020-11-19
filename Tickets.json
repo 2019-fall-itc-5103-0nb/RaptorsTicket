@@ -1,25 +1,14 @@
 {
-   "Tickets":{
-      "Ticket1":[
-         {
-            "type":"Balcony",
-            "quantity":12,
-            "price":100000
-         }
-      ],
-      "Ticket2":[
-         {
-            "type":"Lower Level",
-            "quantity":20,
-            "price":700
-         }
-      ],
-      "Ticket3":[
-         {
-            "type":"CourtSide",
-            "quantity":15,
-            "price":1500
-         }
-      ]
-   }
+“Tickets”: [
+{“type”: "Balcony",
+“quantity”: 12,
+“price”: 100000}, 
+
+{“type”: "Lower Level",
+“quantity”: 20,
+“price”: 700},
+{“type”: "CourtSide",
+“quantity”: 15,
+“price”: 1500}
+]
 }
